@@ -1,0 +1,20 @@
+div {
+	border: 2px solid blue;
+}
+
+header {
+	border: 5px solid lightblue;
+}
+
+main {
+	border: 5px solid darkblue;
+}
+
+footer {
+	border: 5px solid blue;
+}
+
+h1 {
+	color: blue;
+}
+
