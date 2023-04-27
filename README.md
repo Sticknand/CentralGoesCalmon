@@ -23,4 +23,4 @@ Esta parte mostra aos usuários os membros do corpo docente do colégio, mostran
 
 <h2 align="center"> Autores </h2>
 
-[<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Fernando de Jesus Vasconcelos</sub>](https://github.com/Sticknand)
+[<img src="https://avatars.githubusercontent.com/u/129390050?v=4" width=168><br><sub>Fernando de Jesus Vasconcelos</sub>](https://github.com/Sticknand)
