@@ -1,3 +1,5 @@
+![gke7f5uq](https://user-images.githubusercontent.com/129390050/235219161-051fc552-4cdb-418b-97dc-c37defeb51a6.png)
+
 <h1 align="center"> :large_blue_circle: :star2: Central Góes Calmon :star2: :red_circle: </h1>
 
 Esse projeto foi feito por estudantes do Colégio Estadual Góes Calmon como uma atividade complementar. Nós temos o objetivo de criar um site para o colégio que dê uma introdução a instituição e que tenha um certo nível de interação entre o site e o usuário acessando-o (como uma área de feedback, de pesquisa e agregados).
@@ -24,6 +26,8 @@ A nossa solução pode ser usada para que os usuários possam se informar mais s
 
 - ``HTML``
 - ``CSS``
+- ``Replit``
+- ``Note Pad``
 
 <h2 align="center"> :pencil2: Autores :pencil2: </h2>
 
