@@ -1,8 +1,8 @@
-<h1 align="center"> Central Góes Calmon </h1>
+<h1 align="center"> :large_blue_circle: :star2: Central Góes Calmon :star2: :red_circle: </h1>
 
 Esse projeto foi feito por estudantes do Colégio Estadual Góes Calmon como uma atividade complementar. Nós temos o objetivo de criar um site para o colégio que dê uma introdução a instituição e que tenha um certo nível de interação entre o site e o usuário acessando-o (como uma área de feedback, de pesquisa e agregados).
 
-<h2 align="center"> Funcionalidades do Projeto </h2>
+<h2 align="center"> :hammer: Funcionalidades do Projeto :hammer: </h2>
 
 - Apresentar aos usuários os projetos do colégio
 
@@ -16,7 +16,7 @@ Uma área dedicada a mostrar os cursos técnicos disponíveis no colégio, assim
 
 Esta parte mostra aos usuários os membros do corpo docente do colégio, mostrando as matérias em que cada um trabalha no colégio,as formações de cada um, seu histórico escolar e uma descrição do método de ensino utilizado por cada um.
 
-<h2 align="center"> Usabilidade </h2>
+<h2 align="center"> :computer: Usabilidade :computer: </h2>
 
 A nossa solução pode ser usada para que os usuários possam se informar mais sobre os projetos realizados no colégio, o que a instituição disponibiliza para os possíveis alunos em questão das formações, disciplinas e professores, além de ser possível fazer sugestões e feedbacks públicos para e sobre o colégio. Servindo como um meio de diminuir a necessidade de ir até o prédio para fazer isso, e também de diminuir a o fluxo de pessoas que vão ao colégio.
 
@@ -25,6 +25,7 @@ A nossa solução pode ser usada para que os usuários possam se informar mais s
 - ``HTML``
 - ``CSS``
 
-<h2 align="center"> Autores </h2>
+<h2 align="center"> :pencil2: Autores :pencil2: </h2>
 
-[<img src="https://avatars.githubusercontent.com/u/129390050?v=4" width=173><br><sub>Fernando de Jesus Vasconcelos</sub>](https://github.com/Sticknand)
+| [<img src="https://avatars.githubusercontent.com/u/129390050?v=4" width=175><br><sub>Fernando de Jesus Vasconcelos</sub>](https://github.com/Sticknand) |
+| :---: |
