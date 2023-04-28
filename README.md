@@ -18,7 +18,7 @@ Esta parte mostra aos usuários os membros do corpo docente do colégio, mostran
 
 <h2 align="center"> Usabilidade </h2>
 
-A nossa solução pode ser usada para que os usuários possam se informar mais sobre os projetos realizados no colégio, o que a instituição disponibiliza para os possíveis alunos em questão das formações, disciplinas e professores, além de ser possível fazer sugestões e feedbacks públicos para e sobre o colégio. Servindo como um meio de diminuir a necessidade de ir até o prédio para fazer isso, e também de de diminuir a o fluxo de pessoas que vem
+A nossa solução pode ser usada para que os usuários possam se informar mais sobre os projetos realizados no colégio, o que a instituição disponibiliza para os possíveis alunos em questão das formações, disciplinas e professores, além de ser possível fazer sugestões e feedbacks públicos para e sobre o colégio. Servindo como um meio de diminuir a necessidade de ir até o prédio para fazer isso, e também de diminuir a o fluxo de pessoas que vão ao colégio.
 
 <h2 align="center"> Tecnologias Utilizadas </h2>
 
