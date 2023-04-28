@@ -16,11 +16,11 @@ Uma área dedicada a mostrar os cursos técnicos disponíveis no colégio, assim
 
 Esta parte mostra aos usuários os membros do corpo docente do colégio, mostrando as matérias em que cada um trabalha no colégio,as formações de cada um, seu histórico escolar e uma descrição do método de ensino utilizado por cada um.
 
-<h2 align="center"> :computer: Usabilidade :computer: </h2>
+<h2 align="center"> :wrench: Usabilidade :wrench: </h2>
 
 A nossa solução pode ser usada para que os usuários possam se informar mais sobre os projetos realizados no colégio, o que a instituição disponibiliza para os possíveis alunos em questão das formações, disciplinas e professores, além de ser possível fazer sugestões e feedbacks públicos para e sobre o colégio. Servindo como um meio de diminuir a necessidade de ir até o prédio para fazer isso, e também de diminuir a o fluxo de pessoas que vão ao colégio.
-
-<h2 align="center"> Tecnologias Utilizadas </h2>
+ 
+<h2 align="center"> :computer: Tecnologias Utilizadas :computer: </h2>
 
 - ``HTML``
 - ``CSS``
